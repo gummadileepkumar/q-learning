@@ -65,13 +65,20 @@ def q_learning(env,
 ```
 ## OUTPUT:
 
+### Optimal value functions and policy
 ![RL_7 1](https://github.com/user-attachments/assets/95cac75b-e813-4922-9182-3b8d49b5165e)
+
 
 ![RL_7 2](https://github.com/user-attachments/assets/fc1f35fd-04fc-4504-a87a-f11ffecc9163)
 
 ![RL_7 3](https://github.com/user-attachments/assets/91cf601b-1f36-48c1-843c-a6276b93f481)
 
+## Comparison
+### First-visit Monte-Carlo
+
 ![RL_7 4](https://github.com/user-attachments/assets/c675ccb3-8e4c-4f7b-a9f6-6c292cc03381)
+
+### Q-learning
 
 ![RL_7 5](https://github.com/user-attachments/assets/59bc0402-2107-4944-a452-d0b84f742ccc)
 
